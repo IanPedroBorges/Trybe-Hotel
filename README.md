@@ -1,7 +1,6 @@
 # Trybe Hotel - Fase D
 
 Boas-vindas ao repositório do projeto Trybe Hotel - Fase D
-
 Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver **qualquer dúvida**, nos envie no _Slack_ da turma! #vqv 🚀
 
 Aqui, você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
