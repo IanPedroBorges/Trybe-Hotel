@@ -8,10 +8,6 @@ O sistema de hotéis permite que usuários realizem reservas em quartos de hoté
 
 Além disso, a API está integrada a um serviço externo de geolocalização. Isso permite que os usuários encontrem hotéis próximos com base no endereço fornecido. Ao enviar uma solicitação para a rota `/geo/address`, você pode obter uma lista de hotéis ordenados por proximidade.
 
-## Teste Agora!
-
-Você pode testar o sistema de hotéis acessando o [deploy](https://hrs.up.railway.app/) deste projeto. Experimente!
-
 ## Rotas e Funcionalidades
 
 A tabela a seguir detalha as rotas disponíveis na API, juntamente com suas funcionalidades para usuários e administradores:
@@ -38,8 +34,11 @@ A tabela a seguir detalha as rotas disponíveis na API, juntamente com suas func
 ## Instalação e Uso
 
 1. Clone este repositório.
-2. Configure o banco de dados MySQL.
-3. Execute o projeto.
+  ```
+  git clone git@github.com:fredericobrion/TFC.git && cd TFC
+  ```
+3. Configure o banco de dados MySQL.
+4. Execute o projeto.
 
 ## Contribuição
 
