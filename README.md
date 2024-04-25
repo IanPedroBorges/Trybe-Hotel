@@ -35,7 +35,7 @@ A tabela a seguir detalha as rotas disponíveis na API, juntamente com suas func
 
 1. Clone este repositório.
   ```
-  git clone git@github.com:fredericobrion/TFC.git && cd TFC
+  git@github.com:IanPedroBorges/Trybe-Hotel.git
   ```
 3. Configure o banco de dados MySQL.
 4. Execute o projeto.
